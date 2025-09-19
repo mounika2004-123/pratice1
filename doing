@@ -1,0 +1,5 @@
+lsblk
+ps -aux
+sudo -i
+sudo apt update
+sudo -i
